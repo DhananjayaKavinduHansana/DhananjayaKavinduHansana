@@ -1,4 +1,3 @@
-/*<p align="center"> <img src="https://www.softprodigy.com/storage/2021/06/JS-Development-Gif.gif" /> </p>*/
 <p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" /> </p>
 <h1 align="center">Hi 👋, I'm Dhananjaya</h1>
 <h3 align="center">Software Engineering Student in Sri Lanka</h3>
