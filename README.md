@@ -1,5 +1,4 @@
-
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=dhananjayakavinduhansana&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjayakavinduhansana](https://www.softprodigy.com/storage/2021/06/JS-Development-Gif.gif)" /> </p>
+<p align="left"> <img src="https://www.softprodigy.com/storage/2021/06/JS-Development-Gif.gif" /> </p>
 <h1 align="center">Hi 👋, I'm Dhananjaya</h1>
 <h3 align="center">Software Engineering Student in Sri Lanka</h3>
 
