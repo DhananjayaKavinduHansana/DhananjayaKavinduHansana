@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Dhananjaya</h1>
 <h3 align="center">Software Engineering Student in Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjayakavindu&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjayakavindu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjayakavinduhansana&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjayakavinduhansana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhananjayakavindu" alt="dhananjayakavindu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhananjayakavinduhansana" alt="dhananjayakavinduhansana" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dhananjayakavi3" target="blank"><img src="https://img.shields.io/twitter/follow/dhananjayakavi3?logo=twitter&style=for-the-badge" alt="dhananjayakavi3" /></a> </p>
 
@@ -26,8 +26,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dhanuhansaza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhanuhansaza" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhananjayakavindu&show_icons=true&locale=en&layout=compact" alt="dhananjayakavindu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhananjayakavinduhansana&show_icons=true&locale=en&layout=compact" alt="dhananjayakavinduhansana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhananjayakavindu&show_icons=true&locale=en" alt="dhananjayakavindu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhananjayakavinduhansana&show_icons=true&locale=en" alt="dhananjayakavinduhansana" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjayakavindu&" alt="dhananjayakavindu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjayakavinduhansana&" alt="dhananjayakavinduhansana" /></p>
+
