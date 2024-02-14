@@ -2,6 +2,7 @@
 <h3 align="center">Software Engineering Student in Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjayakavinduhansana&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjayakavinduhansana" /> </p>
+<p align="left"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F2f%2Ff4%2F28%2F2ff428006f3ade5f10beac69372062ab.gif&tbnid=0qBEaNh1p-PoXM&vet=12ahUKEwjs0oXGu6qEAxXRamwGHVRpAWkQMygEegQIARBe..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F846254586223209431%2F&docid=rbgLf5hg1TrqnM&w=1600&h=700&q=fullstack%20developer%20gif&ved=2ahUKEwjs0oXGu6qEAxXRamwGHVRpAWkQMygEegQIARBe"/></p>
 
 <p align="left"> <a href="https://twitter.com/@dhananjayakavi3" target="blank"><img src="https://img.shields.io/twitter/follow/@dhananjayakavi3?logo=twitter&style=for-the-badge" alt="@dhananjayakavi3" /></a> </p>
 
